@@ -1,1 +1,1 @@
-# Breast-Cancer-Prediction
+Implemented a Machine Learning Model to predict malignant or benign cancer from the available Wisconsin Breast Cancer (WBC) Data set and compared different classification algorithms to get better performance measures.
